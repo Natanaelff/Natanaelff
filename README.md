@@ -1,4 +1,4 @@
-# 👾 Welcome, I'm Natanael — Digital Architect & Cyber Explorer
+# 👾 Welcome, I'm Natanael — Fullstack & Cyber Explorer
 
 ### ⚡ Crafting the future with Code, AI & Cybersecurity  
 **Next.js** | **React Native (Expo)** | **Ruby on Rails** | **Python**  
